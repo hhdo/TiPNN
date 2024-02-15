@@ -2,7 +2,7 @@
 
 This is the official code release of the following paper:
 
-Hao Dong, Pengyang Wang, Meng Xiao, Zhiyuan Ning, Pengfei Wang and Yuanchun Zhou. "[Temporal Inductive Path Neural Network for Temporal Knowledge Graph Reasoning](https://arxiv.org/abs/2309.03251)."
+Hao Dong, Pengyang Wang, Meng Xiao, Zhiyuan Ning, Pengfei Wang and Yuanchun Zhou. "[Temporal Inductive Path Neural Network for Temporal Knowledge Graph Reasoning](https://arxiv.org/abs/2309.03251)." Artificial Intelligence 2024.
 
 <img src="img/TiPNN.png" alt="TiPNN_Architecture" width="800" class="center">
 
@@ -65,10 +65,12 @@ To get the optimal result reported in the paper, change the hyperparameters and 
 If you find the resource in this repository helpful, please cite
 
 ```bibtex
-@article{dong2023temporal,
+@article{dong2024temporal,
   title={Temporal Inductive Path Neural Network for Temporal Knowledge Graph Reasoning},
   author={Dong, Hao and Wang, Pengyang and Xiao, Meng and Ning, Zhiyuan and Wang, Pengfei and Zhou, Yuanchun},
-  journal={arXiv preprint arXiv:2309.03251},
-  year={2023}
+  journal={Artificial Intelligence},
+  pages={104085},
+  year={2024},
+  publisher={Elsevier}
 }
 ```
